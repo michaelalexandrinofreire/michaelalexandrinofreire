@@ -16,9 +16,9 @@
 
 ### Studying in this moment:
 <div style="display: inline_block"><br>
-  
+  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
   <a href="https://pt.scrapee.net/criar-gif-animado-htm"><img align="right" alt="gif" src="https://images.scrapee.net/result/202302280214357rGVHy7185.gif" alt="criador de gifs animados scrapee.net" style="width:160px">
   </a>
