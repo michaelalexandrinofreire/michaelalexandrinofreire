@@ -9,10 +9,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelalexandrinofreire&layout=compact&hide_border=true&title_color=4169E1&text_color=DCDCDC&bg_color=0d1117" />
 </div>
 
-##
-
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=michaelalexandrinofreire&bg_color=0d1117&color=ffffff&line=207bcf&point=002aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-##
 
 ### Studying in this moment:
 <div style="display: inline_block"><br>
