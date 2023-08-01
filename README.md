@@ -1,4 +1,6 @@
 Hi there 👋
+I'm Michael Freire
+
 ##
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=michaelalexandrinofreire&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4682B4&text_color=DCDCDC&bg_color=0d1117" alt="Michael Freire github stats" /> 
