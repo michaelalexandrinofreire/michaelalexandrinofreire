@@ -1,6 +1,6 @@
 Hi there 👋
 ##
-I'm Michael Freire, front end developer
+I'm Michael Freire, front end developer.
 
 ##
 <div align="center">  
